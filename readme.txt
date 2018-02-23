@@ -5,3 +5,5 @@ Git tracks changes of files.
 Create a new branch is quick and simple.
 Git add merge.
 add coding utf-8
+add merge.
+add /usr/bin/env
